@@ -606,7 +606,7 @@ input, textarea {
 
 /* Lien vers Linkedin */
 .linkedin {
-    color: #fff;
+    color: #e5e7eb;
     background:rgba(17,24,39,.7);
     text-decoration: none;
     padding: 10px;
@@ -620,7 +620,7 @@ input, textarea {
 }
 
 .veilletechno {
-    color: #fff;
+    color: #e5e7eb;
     background:rgba(17,24,39,.7);
     text-decoration: none;
     padding: 10px;
