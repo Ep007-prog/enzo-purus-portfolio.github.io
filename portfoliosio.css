@@ -619,6 +619,15 @@ input, textarea {
     transition: 0.3s ease-in-out;
 }
 
+.veilletechno {
+    color: #fff;
+    background:rgba(17,24,39,.7);
+    text-decoration: none;
+    padding: 10px;
+    float: right;
+}
+ 
+
 
 
 /* Page 2 affichage code */
